@@ -29,7 +29,6 @@ I'm Illia, a backend software engineer based in France.
 ### ⚙️ Technologies I'm currently learning:
 - Redis
 - Nginx
-- CSS
 - JavaScript
 - Kubernetes
 
