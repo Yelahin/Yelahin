@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Illia, a backend software engineer based in France.
+
 🤫 psst("I work primarily in English")
 
 ### 🛠️ Technologies I work with:
