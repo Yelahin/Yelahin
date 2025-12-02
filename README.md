@@ -33,6 +33,8 @@ I'm Illia, a backend software engineer based in France.
 - JavaScript
 - Kubernetes
 
+<br>
+
 Always open to collaboration and new opportunities!
 
 
